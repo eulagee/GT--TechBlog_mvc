@@ -1,1 +1,0 @@
-# GT--TechBlog_mvc
