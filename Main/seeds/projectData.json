@@ -1,17 +1,21 @@
-[
-  {
-    "name": "Music Near Me",
-    "description": "A mobile app that will send you notifications whenever a concert is playing in your area.",
-    "needed_funding": 5000
-  },
-  {
-    "name": "The Ultimate Tech Quiz",
-    "description": "A web app that will give users 10 new technical questions each day and track their progress in things like programming, cybersecurity, database architecture, and more!",
-    "needed_funding": 10000
-  },
-  {
-    "name": "Roll 'Em Up",
-    "description": "A game for Windows and macOS where players move a ball through a series of increasingly challenging mazes.",
-    "needed_funding": 800
-  }
+[{
+        "name": "Leet code Interview",
+        "description": "Prepping for your success in tech"
+    },
+    {
+        "name": "Motivation over consistency in coding? Why you should be more consistent with it. ",
+        "description": "The lack in motivation does not give you the job, but the consistency of finishing a task."
+
+    },
+
+    {
+        "name": "You are coding the wrong way in Python if you aren't using these libraries",
+        "description": "It's the typing, the type safety. They know that there will be a safety net beneath them that catches many bugs and shouts at us if we do mistake"
+
+    },
+
+    {
+        "name": "React Fundamentals",
+        "description": "Understanding react states the easy way"
+    }
 ]
