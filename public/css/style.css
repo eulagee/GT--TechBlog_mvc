@@ -10,6 +10,12 @@
   
   * {
     box-sizing: border-box;
+    padding: 0.30rem;
+    min-height: 1px;
+    border: 0px 10px 10px;
+    background-color: #FFEBCD;
+    text-align: center;
+
   }
   
   body {
@@ -174,6 +180,7 @@
     margin: 0 0 20px 0;
     border: 6px solid var(--dark);
     border-radius: var(--border-radius);
+    background-color:var(--dark);
   }
   
   .card-header {
