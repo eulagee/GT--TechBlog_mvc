@@ -3,6 +3,7 @@
     --secondary: #1F2833;
     --tertiary: #C5C6C7;
     --light-dark: #66FCF1;
+    --light-grey:#282828;
     --dark: #45A29E;
     --border-radius: 0.8rem;
   }
@@ -51,7 +52,9 @@
   }
   
   a {
-    text-decoration: none;
+    text-shadow: 2px 2px #ffff;
+    font-size: 2rem;
+    font-weight: 400;
   }
   
   p {
@@ -104,7 +107,7 @@
   .navbar {
     width: 100%;
     position: fixed;
-    background-color: var(--primary);
+    background-color: var(--light-grey);
   }
   
   .nav-item {
