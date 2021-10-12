@@ -53,4 +53,11 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 ## Video Walkthroug
 
 
-## Mock Up
+## Mock Up!
+
+[Screen Shot 2021-10-12 at 6 16 39 PM](https://user-images.githubusercontent.com/45496074/137036686-b29a6ff1-92c5-4720-a5db-066813467530.png)
+
+![Screen Shot 2021-10-12 at 6 16 13 PM](https://user-images.githubusercontent.com/45496074/137036694-97f449bf-c09b-44e4-8a13-6680254154e9.png)
+
+![Screen Shot 2021-10-12 at 5 41 23 PM](https://user-images.githubusercontent.com/45496074/137036706-eadf65b8-e131-40ae-aef9-d4c00ed039c9.png)
+
