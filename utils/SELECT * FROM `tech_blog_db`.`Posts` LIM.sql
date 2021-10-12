@@ -1,0 +1,1 @@
+SELECT * FROM `tech_blog_db`.`Posts` LIMIT 1000;
